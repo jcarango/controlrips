@@ -12,7 +12,7 @@ switch ($_GET["op"]){
  		$data= Array();
 
  		while ($reg=$rspta->fetch_object()){
- 			$data[]=array(
+ 			$data[]=array( 
  				"0"=>$reg->idarchivo,
 				"1"=>$reg->nombre,
 				"2"=>$reg->fecha,
