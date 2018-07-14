@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d2cc3ef-f2e3-4154-86fc-261f2fe063ad" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="consolidadocuentasmedicas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/consolidadocuentasmedicas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="460" column="24" lean-forward="false" selection-start-line="460" selection-start-column="24" selection-end-line="460" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1529895298130" expanded="true" signature="8503:8530" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consolidadocuentasmedicas.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/scripts/consolidadocuentasmedicas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consolidadocuentasmedicas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/consolidadocuentasmedicas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consolidadocuentasmedicas.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modelos/Consolidadocuentasmedicas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <marker date="1529889639513" expanded="true" signature="324:359" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="497:513" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="1032:1048" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="1032:1049" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="1032:1050" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="1032:1060" ph="SELECT * FRO... AF" />
+                <marker date="1529889639513" expanded="true" signature="1652:2309" ph="SELECT DISTI... AF" />
+                <marker date="1529889639513" expanded="true" signature="1710:1784" ph="select sum(C... AC" />
+                <marker date="1529889639513" expanded="true" signature="1806:1880" ph="select sum(M... AM" />
+                <marker date="1529889639513" expanded="true" signature="1902:1976" ph="select sum(N... AN" />
+                <marker date="1529889639513" expanded="true" signature="1998:2072" ph="select sum(P... AP" />
+                <marker date="1529889639513" expanded="true" signature="2094:2168" ph="select sum(U... AU" />
+                <marker date="1529889639513" expanded="true" signature="2190:2264" ph="select sum(T... AT" />
+                <marker date="1529889639513" expanded="true" signature="2457:2506" ph="SELECT * FRO... AC" />
+                <marker date="1529889639513" expanded="true" signature="2663:2712" ph="SELECT * FRO... AP" />
+                <marker date="1529889639513" expanded="true" signature="2869:2918" ph="SELECT * FRO... AU" />
+                <marker date="1529889639513" expanded="true" signature="3075:3124" ph="SELECT * FRO... AH" />
+                <marker date="1529889639513" expanded="true" signature="3281:3330" ph="SELECT * FRO... AN" />
+                <marker date="1529889639513" expanded="true" signature="3487:3536" ph="SELECT * FRO... AM" />
+                <marker date="1529889639513" expanded="true" signature="3693:3834" ph="SELECT DISTI... US" />
+                <marker date="1529889639513" expanded="true" signature="3991:4040" ph="SELECT * FRO... AT" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Buscar</find>
+      <find>listar</find>
+      <find>buscarFechas</find>
+      <find>tbllistado</find>
+      <find>Sumas</find>
+      <find>totalfa</find>
+      <find>AF</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vistas/cuadredia.php" />
+        <option value="$PROJECT_DIR$/vistas/scripts/buscarfactura.js" />
+        <option value="$PROJECT_DIR$/ajax/consultas.php" />
+        <option value="$PROJECT_DIR$/modelos/Consolidadocuentasmedicas.php" />
+        <option value="$PROJECT_DIR$/vistas/consolidadocuentasmedicas.php" />
+        <option value="$PROJECT_DIR$/ajax/consolidadocuentasmedicas.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlrips" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d2cc3ef-f2e3-4154-86fc-261f2fe063ad" name="Default" comment="" />
+      <created>1528727309059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528727309059</updated>
+      <workItem from="1528727310828" duration="1454000" />
+      <workItem from="1528765024815" duration="12500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="764" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18740849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vistas/buscarfactura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/scripts/buscarfactura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="61" lean-forward="false" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/consultas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/consolidadocuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="89" lean-forward="false" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1529895298130" expanded="true" signature="8503:8530" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/Cuadredia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1528213388000" expanded="true" signature="301:379" ph="SELECT * FRO... totaldia" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/cuadredia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/scripts/cuadredia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/cuadredia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="68" column="48" lean-forward="true" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/cuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="54" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/Cuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <marker date="1528213386000" expanded="true" signature="232:252" ph="SELECT * FRO... glosas" />
+            <marker date="1528213386000" expanded="true" signature="457:648" ph="UPDATE AF SE... " />
+            <marker date="1528213386000" expanded="true" signature="796:839" ph="UPDATE AF SE... " />
+            <marker date="1528213386000" expanded="true" signature="973:1016" ph="UPDATE AF SE... " />
+            <marker date="1528213386000" expanded="true" signature="1174:1209" ph="SELECT * FRO... AF" />
+            <marker date="1528213386000" expanded="true" signature="1389:1452" ph="SELECT * FRO... auditoria_cuentasmedicas" />
+            <marker date="1528213386000" expanded="true" signature="1580:1638" ph="SELECT * FRO... AF" />
+            <marker date="1528213386000" expanded="true" signature="2054:2193" ph="SELECT * FRO... AF" />
+            <marker date="1528213386000" expanded="true" signature="2331:2380" ph="SELECT * FRO... AC" />
+            <marker date="1528213386000" expanded="true" signature="2608:2785" ph="UPDATE AC SE... " />
+            <marker date="1528213386000" expanded="true" signature="2829:2878" ph="SELECT * FRO... AC" />
+            <marker date="1528213386000" expanded="true" signature="3036:3085" ph="SELECT * FRO... AP" />
+            <marker date="1528213386000" expanded="true" signature="3313:3490" ph="UPDATE AP SE... " />
+            <marker date="1528213386000" expanded="true" signature="3534:3583" ph="SELECT * FRO... AP" />
+            <marker date="1528213386000" expanded="true" signature="3741:3790" ph="SELECT * FRO... AU" />
+            <marker date="1528213386000" expanded="true" signature="4018:4195" ph="UPDATE AU SE... " />
+            <marker date="1528213386000" expanded="true" signature="4239:4288" ph="SELECT * FRO... AU" />
+            <marker date="1528213386000" expanded="true" signature="4446:4495" ph="SELECT * FRO... AH" />
+            <marker date="1528213386000" expanded="true" signature="4723:4900" ph="UPDATE AH SE... " />
+            <marker date="1528213386000" expanded="true" signature="4944:4993" ph="SELECT * FRO... AH" />
+            <marker date="1528213386000" expanded="true" signature="5151:5200" ph="SELECT * FRO... AN" />
+            <marker date="1528213386000" expanded="true" signature="5428:5605" ph="UPDATE AN SE... " />
+            <marker date="1528213386000" expanded="true" signature="5649:5698" ph="SELECT * FRO... AN" />
+            <marker date="1528213386000" expanded="true" signature="5856:5905" ph="SELECT * FRO... AM" />
+            <marker date="1528213386000" expanded="true" signature="6133:6310" ph="UPDATE AM SE... " />
+            <marker date="1528213386000" expanded="true" signature="6354:6403" ph="SELECT * FRO... AM" />
+            <marker date="1528213386000" expanded="true" signature="6561:6702" ph="SELECT DISTI... US" />
+            <marker date="1528213386000" expanded="true" signature="6930:7116" ph="UPDATE US SE... " />
+            <marker date="1528213386000" expanded="true" signature="7159:7300" ph="SELECT DISTI... US" />
+            <marker date="1528213386000" expanded="true" signature="7522:7739" ph="UPDATE AF SE... " />
+            <marker date="1528213386000" expanded="true" signature="7885:7934" ph="SELECT * FRO... AT" />
+            <marker date="1528213386000" expanded="true" signature="8162:8339" ph="UPDATE AT SE... " />
+            <marker date="1528213386000" expanded="true" signature="8383:8432" ph="SELECT * FRO... AT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/buscarfactura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-602">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/consultas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/scripts/buscarfactura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/consolidadocuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="460" column="24" lean-forward="false" selection-start-line="460" selection-start-column="24" selection-end-line="460" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1529895298130" expanded="true" signature="8503:8530" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/scripts/consolidadocuentasmedicas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/consolidadocuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/Consolidadocuentasmedicas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <marker date="1529889639513" expanded="true" signature="324:359" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="497:513" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="1032:1048" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="1032:1049" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="1032:1050" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="1032:1060" ph="SELECT * FRO... AF" />
+            <marker date="1529889639513" expanded="true" signature="1652:2309" ph="SELECT DISTI... AF" />
+            <marker date="1529889639513" expanded="true" signature="1710:1784" ph="select sum(C... AC" />
+            <marker date="1529889639513" expanded="true" signature="1806:1880" ph="select sum(M... AM" />
+            <marker date="1529889639513" expanded="true" signature="1902:1976" ph="select sum(N... AN" />
+            <marker date="1529889639513" expanded="true" signature="1998:2072" ph="select sum(P... AP" />
+            <marker date="1529889639513" expanded="true" signature="2094:2168" ph="select sum(U... AU" />
+            <marker date="1529889639513" expanded="true" signature="2190:2264" ph="select sum(T... AT" />
+            <marker date="1529889639513" expanded="true" signature="2457:2506" ph="SELECT * FRO... AC" />
+            <marker date="1529889639513" expanded="true" signature="2663:2712" ph="SELECT * FRO... AP" />
+            <marker date="1529889639513" expanded="true" signature="2869:2918" ph="SELECT * FRO... AU" />
+            <marker date="1529889639513" expanded="true" signature="3075:3124" ph="SELECT * FRO... AH" />
+            <marker date="1529889639513" expanded="true" signature="3281:3330" ph="SELECT * FRO... AN" />
+            <marker date="1529889639513" expanded="true" signature="3487:3536" ph="SELECT * FRO... AM" />
+            <marker date="1529889639513" expanded="true" signature="3693:3834" ph="SELECT DISTI... US" />
+            <marker date="1529889639513" expanded="true" signature="3991:4040" ph="SELECT * FRO... AT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

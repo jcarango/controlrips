@@ -1,0 +1,8 @@
+542470,273610007701,CC,54255080,,,2,Sodio cloruro ss 09%bolsa x 50,Sol Inyec,500 ml,500 ml,3,3200,9600
+542470,273610007701,CC,54255080,,C09AC004012,1,Captopril,Tabletas,50 mg,50 mg,1,500,500
+542470,273610007701,CC,54255080,,M01AD015701,1,Diclofenaco sOdico,inyección,75 mg/3 mL,75 mg/3 mL,1,2000,2000
+545155,273610007701,CC,35897417,,,2,Sodio cloruro ss 0.9% bolsa x ,Sol Inyec,100 ml,100 ml,1,1500,1500
+545155,273610007701,CC,35897417,,N02AT020201,1,Tramadol clorhidrato,solución,100 mg/mL (10%),100 mg/mL (10%),1,29000,29000
+545800,273610007701,CC,26331338,,100030,1,omeprazol amp,ampolla,ampolla,ampolla,1,32000,32000
+545800,273610007701,CC,26331338,,A03DH013701,1,Hioscina N-butil bromuro + Dip,inyección,"(0.020 + 2.5)g/5 mL,"(0.020 + 2.5)g/5 mL,1,4000,4000
+545800,273610007701,CC,26331338,,,2,Sodio cloruro ss 09%bolsa x 50,Sol Inyec,500 ml,500 ml,1,3200,3200

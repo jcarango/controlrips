@@ -1,0 +1,3 @@
+CC,21552662,RES004,1,Herrera,Cano,Omaira,deJesus,53,1,F,05,091,R
+CC,43619313,RES004,2,Uran,Restrepo,Gretel,Marelis,40,1,F,05,034,U
+CC,21515395,RES004,1,Cuartas,Cuartas,Luz,Miriam,55,1,F,05,059,R

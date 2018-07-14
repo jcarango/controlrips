@@ -1,0 +1,12 @@
+CC,1146442027,RES004,1,Gallego,Arvelaez,Adara,,20,1,F,05,001,U
+CC,1152701053,RES004,1,Echeverri,Gonzalez,Andrea,,23,1,F,05,001,U
+TI,1015189915,RES004,1,Pulgarin,Medina,Bruno,Emanuel,9,1,M,05,001,U
+TI,1001139656,RES004,1,Pulgarin,Medina,Camilita,,16,1,F,05,001,U
+CC,1017232799,RES004,1,Bedoya,Uribe,Daniel,,22,1,M,05,001,U
+TI,1025650274,RES004,1,Palacios,Garcia,Daniela,,10,1,F,05,001,U
+CC,71368309,RES004,1,Suarez,Cuervo,Jony,Didier,34,1,M,05,001,U
+CC,71277630,RES004,1,Echeverri,Velasquez,Jorge,Andres,36,1,M,05,001,U
+CC,1034919007,RES004,1,Cuesta,Cuesta,Kevin,Yesit,11,1,M,05,001,U
+TI,1000883792,RES004,1,Hernandez,Gomez,Maria,Clara,17,1,F,05,001,U
+TI,1001235197,RES004,1,Cadavid,Sanchez,Marian,,15,1,F,05,001,U
+CC,1017204604,RES004,1,Gutierrez,Lopera,Sergio,Stiven,25,1,M,05,001,U

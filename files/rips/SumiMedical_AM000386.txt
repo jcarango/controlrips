@@ -1,0 +1,5 @@
+A386,274910092801,TI,1003756315,,36344-02,2,buscapina compuesta amp.,ampolla,2omg,ampolla 20mg,1,0,0
+A386,274910092801,TI,1003756315,,N02BA001011,1,AcetaminofEn,Tabletas,500 mg,500 mg,1,0,0
+A386,274910092801,CC,4839618,,B05XR007701,1,Lactato Ringer (SoluciOn Hartm,inyecci?,.,.,1,0,0
+A386,274910092801,TI,1074686112,,B05BS004701,1,Sodio cloruro,inyecci?,0.9%,0.9%,1,0,0
+A386,274910092801,TI,1074686112,,N07CD023011,1,Dimenhidrinato,Tabletas,50 mg,50 mg,1,0,0

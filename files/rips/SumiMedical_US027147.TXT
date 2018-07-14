@@ -1,0 +1,2 @@
+CC,21683211,RES004,5,RENDON,ROJAS,MERCEDES,DE JESUS,67,1,F,17,001,U                                                                                                                                                                                           
+CC,43036664,RES004,5,ARENAS,LADINO,LUZ,MARINA,57,1,F,17,001,U                                                                                                                                                                                                 
