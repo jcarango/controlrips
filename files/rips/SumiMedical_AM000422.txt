@@ -1,2 +1,0 @@
-B422,276600092802,TI,1078459959,,A03BH013701,1,Hioscina N-butil bromuro,inyección,20 mg/mL,20 mg/mL,1,0,0
-B422,276600092802,TI,1078459959,,B05BS004701,1,Sodio cloruro,inyección,"0.9%",500ML,1,0,0

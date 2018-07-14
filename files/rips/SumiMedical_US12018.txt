@@ -1,3 +1,0 @@
-CC,43448282,RES004,1,Garcia,Arboleda,Luz,Adriana,41,1,F,05,789,U
-CC,35602525,RES004,2,Renteria,Guerrero,Elizabeth,,43,1,F,05,353,U
-CC,66962510,RES004,1,Alvarez,,Gloria,Patricia,38,1,F,05,792,U
