@@ -1,15 +1,15 @@
-<?php 
+<?php
 //Ip de la pc servidor de base de datos
-define("DB_HOST","localhost");
+define("DB_HOST","127.0.0.1");
 
 //Nombre de la base de datos
-define("DB_NAME", "controlrips");
+define("DB_NAME", "rips");
 
 //Usuario de la base de datos
 define("DB_USERNAME", "root");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "Albion98");
+define("DB_PASSWORD", "root");
 
 //definimos la codificación de los caracteres
 define("DB_ENCODE","utf8");

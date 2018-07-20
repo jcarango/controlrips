@@ -789,7 +789,7 @@ if ($_SESSION['salidas']==1)
                             </div>
                             <!-- /.modal -->
 
-                            <button class="btn btn-primary" type="submit" id="btnGuardarf"><i class="fa fa-save"></i> Guardar</button>
+                            <button class="btn btn-primary" type="button" id="btnGuardarf"><i class="fa fa-save"></i> Guardar</button>
 
                             <button class="btn btn-danger" onclick="cancelarform()" type="button"><i class="fa fa-arrow-circle-left"></i> Cancelar</button>
                           </div>
@@ -874,6 +874,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -932,6 +939,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -989,6 +1003,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -1046,6 +1067,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -1103,6 +1131,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -1160,6 +1195,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvotros").hide();
     });
 
 
@@ -1218,6 +1260,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
+          $("#dvotros").hide();
     });
 
     $("#btnGuardarus").click(function() {
@@ -1249,7 +1298,7 @@ require 'footer.php';
     });
 
 
-    $("#btnGuardarf_").click(function() {
+    $("#btnGuardarf").click(function() {
           //$("#dvconsulta").hide();
           tabla=$('#tbllistadoprocedimiento').dataTable(
           {
@@ -1303,6 +1352,13 @@ require 'footer.php';
             "iDisplayLength": 10,//Paginación
               "order": [[ 0, "desc" ]]//Ordenar (columna,orden)
           }).DataTable();
+          $("#dvconsulta").hide();
+          $("#dvusuarios").hide();
+          $("#dvprocedimiento").hide();
+          $("#dvurgencias").hide();
+          $("#dvhospitalizacion").hide();
+          $("#dvnacidos").hide();
+          $("#dvmedicamentos").hide();
     });
 
 

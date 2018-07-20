@@ -191,11 +191,20 @@ Class Cuentasmedicas
 	//Implementar un método para listar los registros
 	public function updateUS($factura, $idUS, $valorglosa, $glosa, $devolucion, $notacredito, $observaciones)
 	{
-		$sql="UPDATE US SET glosa='$glosa', valorglosa = '$valorglosa', estado = 0, devolucion = $devolucion, notacredito = $notacredito, observaciones = '$observaciones'
-		       WHERE idUS = '$idUS'";
+		if ($notacredito == "") {
+			$notacredito = 0;
+		}
+		if ($valorglosa == "") {
+			$valorglosa = 0;
+		}
+		if ($glosa == "") {
+			$glosa = 0;
+		}
+		$sql="UPDATE US SET glosa=$glosa, valorglosa = $valorglosa, estado = 0, devolucion = '$devolucion', notacredito = $notacredito, observaciones = '$observaciones'
+		       WHERE idUS = $idUS";
 		$r = ejecutarConsulta($sql);
 
-		$sql="SELECT DISTINCT u.*
+		$sql2="SELECT DISTINCT u.*
 						FROM US u, AP a
 					 WHERE a.numeroidentificacion = u.numeroidentificacion
 						 AND a.numerofactura = '$factura'";// AND estado = 1";
@@ -205,8 +214,17 @@ Class Cuentasmedicas
 	//Implementar un método para listar los registros
 	public function updateAF($factura, $valorglosa, $glosa, $devolucion, $notacredito, $observaciones)
 	{
-		$sql="UPDATE AF SET usuario = '".$_SESSION['idusuario']."', glosa='$glosa', valorglosa = '$valorglosa', estado = 0, devolucion = $devolucion, notacredito = $notacredito, observaciones = '$observaciones' WHERE idAF = '$idAF'";
-		ejecutarConsulta($sql);
+		if ($devolucion == "") {
+			$devolucion = 0;
+		}
+		if ($valorglosa == "") {
+			$valorglosa = 0;
+		}
+		if ($glosa == "") {
+			$glosa = 0;
+		}
+		$sql="UPDATE AF SET usuario = '".$_SESSION['idusuario']."', glosa=$glosa, valorglosa = $valorglosa, estado = 0, devolucion = $devolucion, notacredito = $notacredito, observaciones = '$observaciones' WHERE numerofactura = $factura";
+		$r = ejecutarConsulta($sql);
 		return true;
 	}
 

@@ -721,7 +721,7 @@ switch ($_GET["op"]){
 	break;
 
 	case 'updateAF':
-		$rspta=$cuentasmedicas->updateAP($_GET['idAF'], $_GET['valorglosa'], $_GET['glosa'],  $_GET['devolucion'],  $_GET['notacredito'],  $_GET['observaciones']);
+	$rspta=$cuentasmedicas->updateAF($_GET['idAF'], $_GET['valorglosa'], $_GET['glosa'],  $_GET['devolucion'],  $_GET['notacredito'],  $_GET['observaciones']);
 		echo "Registro actualizado";
 	break;
 

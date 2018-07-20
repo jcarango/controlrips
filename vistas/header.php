@@ -1,5 +1,5 @@
 <?php
-if (strlen(session_id()) < 1) 
+if (strlen(session_id()) < 1)
   session_start();
 ?>
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ if (strlen(session_id()) < 1)
     <link rel="stylesheet" href="../public/css/bootstrap.min.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
-    
+
     <!-- Ionicons -->
     <link rel="stylesheet" href="../public/Ionicons/css/ionicons.min.css">
     <!-- Theme style -->
@@ -26,14 +26,14 @@ if (strlen(session_id()) < 1)
     <link rel="shortcut icon" href="../public/img/favicon.ico">
 
     <!-- DATATABLES -->
-    <link rel="stylesheet" type="text/css" href="../public/datatables/jquery.dataTables.min.css">    
+    <link rel="stylesheet" type="text/css" href="../public/datatables/jquery.dataTables.min.css">
     <link href="../public/datatables/buttons.dataTables.min.css" rel="stylesheet"/>
     <link href="../public/datatables/responsive.dataTables.min.css" rel="stylesheet"/>
 
     <!--Subir archivos-->
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="scripts/script.js"></script>
-    
+
   </head>
   <body class="hold-transition skin-blue-light sidebar-mini">
     <div class="wrapper">
@@ -58,7 +58,7 @@ if (strlen(session_id()) < 1)
           <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
               <!-- Messages: style can be found in dropdown.less-->
-              
+
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -71,17 +71,17 @@ if (strlen(session_id()) < 1)
                       <img src="../files/img/logo.png" alt="logo">
                       <br>Usuario: <?php echo $_SESSION['login']; ?>
                   </li>
-                  
+
                   <!-- Menu Footer-->
                   <li class="user-footer">
-                    
+
                     <div class="pull-right">
                       <a href="../ajax/usuario.php?op=salir" class="btn btn-default btn-flat">Cerrar</a>
                     </div>
                   </li>
                 </ul>
               </li>
-              
+
             </ul>
           </div>
 
@@ -90,11 +90,11 @@ if (strlen(session_id()) < 1)
       <!-- Left side column. contains the logo and sidebar -->
       <aside class="main-sidebar">
         <!-- sidebar: style can be found in sidebar.less -->
-        <section class="sidebar">       
+        <section class="sidebar">
           <!-- sidebar menu: : style can be found in sidebar.less -->
           <ul class="sidebar-menu">
             <li class="header"></li>
-            <?php 
+            <?php
             if ($_SESSION['escritorio']==1)
             {
               echo '<li>
@@ -104,7 +104,7 @@ if (strlen(session_id()) < 1)
             }
             ?>
 
-            <?php 
+            <?php
             if ($_SESSION['ingresos']==1)
             {
               echo '<li class="treeview">
@@ -122,7 +122,7 @@ if (strlen(session_id()) < 1)
             }
             ?>
 
-            <?php 
+            <?php
             if ($_SESSION['salidas']==1)
             {
               echo '<li class="treeview">
@@ -134,13 +134,13 @@ if (strlen(session_id()) < 1)
               <ul class="treeview-menu">
               	<li><a href="cuentasmedicas.php"><i class="fa fa-circle-o"></i> Cuentas Médicas</a></li>
                <li><a href="contabilidad.php"><i class="fa fa-circle-o"></i> Descarga Zeus</a></li>
-               <li><a href="archivos.php"><i class="fa fa-circle-o"></i> Descargar Archivos</a></li> 
+               <li><a href="archivos.php"><i class="fa fa-circle-o"></i> Descargar Archivos</a></li>
               </ul>
             </li>';
             }
             ?>
 
-            <?php 
+            <?php
             if ($_SESSION['informes']==1)
             {
               echo '<li class="treeview">
@@ -166,7 +166,7 @@ if (strlen(session_id()) < 1)
             }
             ?>
 
-            <?php 
+            <?php
             if ($_SESSION['auditoria']==1)
             {
               echo '<li class="treeview">
@@ -183,7 +183,7 @@ if (strlen(session_id()) < 1)
             }
             ?>
 
-            <?php 
+            <?php
             if ($_SESSION['informes']==1)
             {
               echo '<li class="treeview">
@@ -201,8 +201,8 @@ if (strlen(session_id()) < 1)
             </li>';
             }
             ?>
-                        
-            <?php 
+
+            <?php
             if ($_SESSION['acceso']==1)
             {
               echo '<li class="treeview">
@@ -230,7 +230,7 @@ if (strlen(session_id()) < 1)
                 <small class="label pull-right bg-yellow">IT</small>
               </a>
             </li>-->
-                        
+
           </ul>
         </section>
         <!-- /.sidebar -->

@@ -3,7 +3,7 @@
           <b>Version</b> 1.0
         </div>
         <strong>Copyright &copy; 2018 <a href="www.adamm.co">Adamm Soluciones</a>.</strong> All rights reserved.
-    </footer>    
+    </footer>
     <!-- jQuery -->
     <script src="../public/js/jquery-3.1.1.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
@@ -37,7 +37,7 @@
     <script src="../vendors/pdfmake/build/pdfmake.min.js"></script>
     <script src="../vendors/pdfmake/build/vfs_fonts.js"></script>
 
-    <script src="../public/js/bootbox.min.js"></script> 
+    <script src="../public/js/bootbox.min.js"></script>
     <script src="../public/js/bootstrap-select.min.js"></script>
 
     <!-- Datatables -->
